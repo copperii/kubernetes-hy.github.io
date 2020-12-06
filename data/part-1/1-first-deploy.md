@@ -218,7 +218,7 @@ A helpful list for other commands from docker-cli translated to kubectl is avail
 
   Deploy it into your Kubernetes cluster and confirm that it's running with `kubectl logs ...`
 
-  In future exercises, this application will be referred to as "Main application". We will revisit some exercise applications during the course.
+  This application will be used in future exercises and referred to as "Main application". 
 
 </exercise>
 
